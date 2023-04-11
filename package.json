@@ -1,5 +1,5 @@
 {
-  "name": "mc-ui-components",
+  "name": "mailchain-ui-components",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
@@ -9,7 +9,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/mc-ui-components/mc-ui-components.esm.js",
+  "unpkg": "dist/mailchain-ui-components/mailchain-ui-components.esm.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ionic-team/stencil-component-starter.git"
