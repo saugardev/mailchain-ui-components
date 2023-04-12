@@ -8,14 +8,14 @@ import { Components } from 'base-ui-components';
 
 
 @ProxyCmp({
-  inputs: ['first', 'last', 'middle']
+  inputs: ['description']
 })
 @Component({
   selector: 'my-component',
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: '<ng-content></ng-content>',
   // eslint-disable-next-line @angular-eslint/no-inputs-metadata-property
-  inputs: ['first', 'last', 'middle'],
+  inputs: ['description'],
 })
 export class MyComponent {
   protected el: HTMLElement;
