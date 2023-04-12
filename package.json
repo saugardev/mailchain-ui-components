@@ -19,11 +19,12 @@
     "loader/"
   ],
   "scripts": {
-    "build": "stencil build --docs",
     "start": "stencil build --dev --watch --serve",
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
-    "generate": "stencil generate"
+    "generate": "stencil generate",
+    "build": "cd ./packages/base-ui-components/; stencil build --docs; cd ../angular-workspace;pwd; ng build",
+    "pack-angular": "cd ./packages/angular-workspace/dist/angular-ui-components; npm pack"
   },
   "dependencies": {
     "@stencil/core": "^3.0.0"
