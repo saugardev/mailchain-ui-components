@@ -46,7 +46,7 @@ export class MyComponent {
       <section class="contact-us" id="contact-section">
         <form id="contact">
           <div class="section-heading">
-            <h4>Contact us</h4>
+            <h4>Hola mundo</h4>
           </div>
           <div class="section-description">
             <h4>{this.description}</h4>

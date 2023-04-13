@@ -23,7 +23,7 @@
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate",
-    "build": "cd ./packages/base-ui-components/; stencil build --docs; cd ../angular-workspace;pwd; ng build",
+    "build": "cd ./packages/base-ui-components/; stencil build --docs; cd ../angular-workspace; ng build; cd ../react-ui-components; tsc -p .",
     "pack-angular": "cd ./packages/angular-workspace/dist/angular-ui-components; npm pack"
   },
   "dependencies": {
@@ -33,10 +33,13 @@
     "@stencil/angular-output-target": "^0.6.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.23",
+    "@types/react": "^18.0.35",
     "jest": "^27.5.1",
     "jest-cli": "^27.5.1",
     "lerna": "^6.6.1",
     "puppeteer": "^19.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "^5.0.4"
   },
   "license": "MIT",
