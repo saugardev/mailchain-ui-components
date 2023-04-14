@@ -24,4 +24,5 @@ We hope you enjoy using Mailchain UI Components and find it valuable in building
 
 ## Website
 
-[Link](https://mailchain.saugardev.com)
+[Website Link](https://mailchain.saugardev.com)
+[Video Link](https://youtu.be/C4EhlalmWnw)
