@@ -10,6 +10,7 @@
 | Property      | Attribute     | Description         | Type     | Default     |
 | ------------- | ------------- | ------------------- | -------- | ----------- |
 | `description` | `description` | Contact description | `string` | `undefined` |
+| `endPoint`    | `end-point`   | Contact description | `string` | `undefined` |
 
 
 ----------------------------------------------

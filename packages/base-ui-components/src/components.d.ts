@@ -11,6 +11,10 @@ export namespace Components {
           * Contact description
          */
         "description": string;
+        /**
+          * Contact description
+         */
+        "endPoint": string;
     }
 }
 declare global {
@@ -30,6 +34,10 @@ declare namespace LocalJSX {
           * Contact description
          */
         "description"?: string;
+        /**
+          * Contact description
+         */
+        "endPoint"?: string;
     }
     interface IntrinsicElements {
         "my-component": MyComponent;

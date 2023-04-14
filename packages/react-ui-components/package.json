@@ -1,7 +1,7 @@
 {
-  "name": "react-ui-components",
-  "version": "0.0.0",
-  "description": "> TODO: description",
+  "name": "@saugardev/react-ui-components",
+  "version": "0.0.1",
+  "description": "",
   "author": "Saúl García Céspedes <saul@dixwe.com>",
   "homepage": "https://github.com/saugardev/mailchain-ui-components#readme",
   "license": "ISC",
