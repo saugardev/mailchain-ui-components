@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { MyComponent, defineCustomElements } from 'react-ui-components';
+import { MyComponent, defineCustomElements } from '@saugardev/react-ui-components';
 
 defineCustomElements();
 
