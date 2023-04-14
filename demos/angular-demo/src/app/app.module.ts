@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { AngularUiComponentsModule } from 'angular-ui-components'
+import { AngularUiComponentsModule } from '@saugardev/angular-ui-components'
 
 @NgModule({
   declarations: [
