@@ -14,7 +14,7 @@ Welcome to the documentation for [Mailchain UI Components](https://www.npmjs.com
 
 ## Getting Started
 
-To get started with Mailchain UI Components, follow the step-by-step instructions in our [Installation docs](https://github.com/saugardev/mailchain-ui-components/blob/main/docs/installation.md), which covers everything you need to know to set up and use the library in your projects.
+To get started with Mailchain UI Components, follow the step-by-step instructions in our [Installation docs](https://mailchain.saugardev.com/docs), which covers everything you need to know to set up and use the library in your projects.
 
 ## Support and Questions
 
