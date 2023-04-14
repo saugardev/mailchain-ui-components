@@ -10,6 +10,10 @@ export class MyComponent {
    * Contact description
    */
   @Prop() description: string;
+  /**
+   * Contact description
+   */
+  @Prop() endPoint: string;
 
   @State() name: string;
   @State() email: string;
@@ -46,7 +50,7 @@ export class MyComponent {
       <section class="contact-us" id="contact-section">
         <form id="contact">
           <div class="section-heading">
-            <h4>Hola mundo</h4>
+            <h4>Contact me</h4>
           </div>
           <div class="section-description">
             <h4>{this.description}</h4>
