@@ -1,5 +1,7 @@
 # Mailchain UI Components
 
+![My Image](demos/mailchain.png)
+
 Welcome to the documentation for [Mailchain UI Components](https://www.npmjs.com)! This is a versatile and modern npm package that uses [Stencil](https://stenciljs.com/) to build a monorepo of two powerful libraries: `react-ui-components` and `angular-ui-components`. Our goal is to provide a seamless and consistent user interface (UI) experience across popular JavaScript frameworks such as [Angular](https://angular.io/), [React](https://reactjs.org/), and [Next.js](https://nextjs.org/).
 
 ## Features
