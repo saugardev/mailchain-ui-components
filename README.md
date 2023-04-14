@@ -21,3 +21,7 @@ To get started with Mailchain UI Components, follow the step-by-step instruction
 If you have any questions, issues, or need help, please create an issue on our [GitHub repository](https://github.com/saugardev/mailchain-ui-components/issues), and we'll do our best to assist you.
 
 We hope you enjoy using Mailchain UI Components and find it valuable in building your applications! 🎉
+
+## Website
+
+[Link](https://mailchain.saugardev.com)
